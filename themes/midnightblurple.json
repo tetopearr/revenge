@@ -1,11 +1,11 @@
 {
-  "name": "midnight blurple",
-  "description": "test",
-  "version": "1.1",
+  "name": "test",
+  "description": "little test",
+  "version": "2.0.0",
   "authors": [
     {
       "name": "teto.pear_",
-      "id": "1113130615630471290"
+      "id": "508863359777505290"
     }
   ],
   "semanticColors": {
@@ -354,26 +354,7 @@
     "WHITE_500": "#FFFFFF",
     "WHITE_630": "#FFFFFF"
   },
-  "fonts": {
-    "ABCGintoNord-ExtraBold": "",
-    "ggsans-Bold": "",
-    "ggsans-BoldItalic": "",
-    "ggsans-ExtraBold": "",
-    "ggsans-ExtraBoldItalic": "",
-    "ggsans-Medium": "",
-    "ggsans-MediumItalic": "",
-    "ggsans-Normal": "",
-    "ggsans-NormalItalic": "",
-    "ggsans-Semibold": "",
-    "ggsans-SemiboldItalic": "",
-    "NotoSans-Bold": "",
-    "NotoSans-ExtraBold": "",
-    "NotoSans-Medium": "",
-    "NotoSans-Normal": "",
-    "NotoSans-NormalItalic": "",
-    "NotoSans-Semibold": "",
-    "SourceCodePro-Semibold": ""
-  },
+  "fonts": {},
   "plus": {
     "version": 0,
     "iconpack": "",
