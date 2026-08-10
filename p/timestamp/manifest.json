@@ -1,6 +1,0 @@
-{
-  "name": "TimestampCommand",
-  "description": "Adds a /t command for quick timestamps",
-  "author": "tetopearr",
-  "main": "index.js"
-}
